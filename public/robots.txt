@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace YOUR_GITHUB_USERNAME after pushing to GitHub
+Sitemap: https://arungaikwadgit.github.io/arungaikwad-AIThoughtLeader/sitemap.xml

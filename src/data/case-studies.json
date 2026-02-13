@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "slug": "enterprise-marketplace-modernization",
+      "title": "Enterprise Marketplace Modernization (Anonymized)",
+      "summary": "Re-platformed a multi-surface marketplace experience with clear ownership boundaries, measurable delivery improvements, and governance-minded controls.",
+      "tags": [
+        "Delivery",
+        "Enterprise",
+        "Governance"
+      ],
+      "context": "PLACEHOLDER: 2\u20133 lines describing the org context and constraints (legacy integrations, multi-team environment, customer-facing surface area).",
+      "businessProblem": "PLACEHOLDER: What was at risk (time-to-market, quality, support burden, stakeholder confidence, etc.).",
+      "myOwnership": [
+        "PLACEHOLDER: Owned delivery plan, cross-team alignment, and release readiness gate.",
+        "PLACEHOLDER: Managed risks and clarified decision rights across stakeholders."
+      ],
+      "technicalApproach": [
+        "PLACEHOLDER: Modular front-end + API boundary refinement.",
+        "PLACEHOLDER: Observability and reliability KPIs added to delivery."
+      ],
+      "leadershipDecisions": [
+        "PLACEHOLDER: Chose sequencing to de-risk production cutover.",
+        "PLACEHOLDER: Introduced governance checkpoint for AI-facing features."
+      ],
+      "impact": [
+        "PLACEHOLDER: Reduced cycle time by X%.",
+        "PLACEHOLDER: Improved defect escape rate by Y%."
+      ],
+      "governanceRisk": [
+        "PLACEHOLDER: PII handling and logging policy review.",
+        "PLACEHOLDER: Guardrails and human-in-loop approvals for sensitive actions."
+      ]
+    },
+    {
+      "slug": "ai-governance-mini-audit",
+      "title": "AI Governance Gate: 60\u201390 Minute Mini-Audit (Anonymized)",
+      "summary": "Built a repeatable governance checkpoint that catches privacy/safety gaps before launch and creates a lightweight risk register.",
+      "tags": [
+        "Governance",
+        "AI Strategy",
+        "Operational Excellence"
+      ],
+      "context": "PLACEHOLDER: LLM/RAG feature approaching launch; compliance review arrived late in the cycle.",
+      "businessProblem": "PLACEHOLDER: Risk of shipping without bias/privacy safeguards and retention clarity.",
+      "myOwnership": [
+        "Defined the governance checkpoint and success criteria (fast, repeatable, auditable).",
+        "Aligned engineering + compliance on what is 'good enough' before launch."
+      ],
+      "technicalApproach": [
+        "Red-team prompt set (15\u201320 prompts) for bias/safety.",
+        "Checked logging for PII capture; validated retention settings.",
+        "Documented risks + mitigations; scheduled the next governance gate."
+      ],
+      "leadershipDecisions": [
+        "Chose a lightweight gate to avoid slowing delivery while increasing safety.",
+        "Made the gate non-negotiable for future releases."
+      ],
+      "impact": [
+        "PLACEHOLDER: Detected N issues before launch.",
+        "PLACEHOLDER: Reduced rework by X hours/sprint."
+      ],
+      "governanceRisk": [
+        "Data retention and audit logging clarity.",
+        "Bias/safety testing as a release requirement."
+      ]
+    }
+  ]
+}

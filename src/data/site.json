@@ -1,0 +1,35 @@
+{
+  "name": "Arun Gaikwad",
+  "currentTitle": "Senior Software Engineering Manager",
+  "targetTitle": "AI IT Director",
+  "headline": "AI + Software Engineering leader focused on responsible delivery.",
+  "subheadline": "I build governed, scalable AI and enterprise software that ships \u2014 with a strong bias toward ownership, operational excellence, and risk-aware decisions.",
+  "images": {
+    "banner": "/images/uploads/banner-placeholder.png",
+    "headshot": "/images/uploads/headshot-placeholder.jpg"
+  },
+  "credibility": [
+    {
+      "label": "Experience",
+      "value": "PLACEHOLDER (paste exact numbers from LinkedIn)"
+    },
+    {
+      "label": "Team Scope",
+      "value": "PLACEHOLDER"
+    },
+    {
+      "label": "Enterprise Delivery",
+      "value": "PLACEHOLDER"
+    },
+    {
+      "label": "AI Governance",
+      "value": "PLACEHOLDER"
+    }
+  ],
+  "links": {
+    "email": "arun.gaikwad@outlook.com",
+    "linkedin": "https://www.linkedin.com/in/arungaikwad-engineering-leader/",
+    "github": "https://github.com/arungaikwadgit",
+    "booking": "https://topmate.io/arungaikwad/"
+  }
+}
