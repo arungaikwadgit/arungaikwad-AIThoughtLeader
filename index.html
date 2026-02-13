@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Arun Gaikwad — Senior Software Engineering Manager. Portfolio focused on AI ownership, governance mindset, and enterprise-scale delivery." />
+    <meta name="robots" content="index,follow" />
+    <link rel="icon" type="image/svg+xml" href="/arungaikwad-AIThoughtLeader/favicon.svg" />
+    <title>Arun Gaikwad | AI + Software Engineering Leader</title>
+
+    <!-- GitHub Pages SPA redirect support (rafgraph technique) -->
+    <script>
+      (function(l) {
+        if (l.search[1] === '/') {
+          var decoded = l.search.slice(1).split('&').map(function(s) {
+            return s.replace(/~and~/g, '&')
+          }).join('?');
+          window.history.replaceState(null, null,
+            l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      }(window.location));
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
